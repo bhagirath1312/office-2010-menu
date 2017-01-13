@@ -69,7 +69,7 @@ a.button, a.button:visited
 .button.big img
 {
 	position: absolute;
-	margin-right: 10px;
+	left: 10px;
 }
 
 .button.big .label
